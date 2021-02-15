@@ -57,9 +57,9 @@ sr.reveal('.familiar_cont',{interval: 200});
 sr.reveal('.familiar__img',{interval: 200});
 sr.reveal('.familiar__subtitle',{interval:200});
 /*SCROLL WORK*/
-sr.reveal('.work__img',{delay: 200}); 
+//sr.reveal('.work__img',{delay: 200}); 
 //acheivement section
-sr.reveal('.certificate__img',{delay: 200});
+//sr.reveal('.certificate__img',{delay: 200});
 /*SCROLL CONTACT*/
 sr.reveal('.contact__input',{interval: 50}); 
 var typed = new Typed(".typing",{

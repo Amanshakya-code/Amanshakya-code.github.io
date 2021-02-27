@@ -27,10 +27,10 @@ navLink.forEach(n => n.addEventListener('click', linkAction));
 
 /*===== SCROLL REVEAL ANIMATION =====*/
 const sr = ScrollReveal({
-    origin: 'top',
+    origin: 'bottom',
     distance: '100px',
-    duration: 2000,
-    reset: true
+    duration: 1500,
+    reset: false
 });
 
 /*SCROLL HOME*/

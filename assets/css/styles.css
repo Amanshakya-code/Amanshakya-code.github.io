@@ -323,28 +323,28 @@ img{
   z-index: var(--z-back);
 }
 .skills__os{
-  width: 85%;
+  width: 100%;
 }
 .skills__cpp{
-  width: 90%;
+  width: 100%;
 }
 .skills__kotlin{
-  width: 65%;
+  width: 100%;
 }
 .skills__java{
-  width: 95%;
+  width: 100%;
 }
 .skills__dbms{
-  width: 80%;
+  width: 100%;
 }
 .skills__oops{
-  width: 90%;
+  width: 100%;
 }
 .skills__dsa{
-  width: 95%;
+  width: 100%;
 }
 .skills__cn{
-  width: 86%;
+  width: 100%;
 }
 .skills__img{
   border-radius: .5rem;

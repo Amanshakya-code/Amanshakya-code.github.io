@@ -63,7 +63,7 @@ sr.reveal('.familiar__subtitle',{interval:200});
 /*SCROLL CONTACT*/
 sr.reveal('.contact__input',{interval: 50}); 
 var typed = new Typed(".typing",{
-  strings: ["Android Developer","Programmer","Explorer","Quick Learner","Photographer"],
+  strings: ["Android Developer","Programmer","Explorer","Quick Learner"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
